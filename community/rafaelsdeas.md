@@ -6,7 +6,7 @@ Minha primeira carreira era de professor, e agora no 4 trimestre de 2024 estou i
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/rafael-sdeas-797b53279/)
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=fff)]([https://www.instagram.com/rafaelsdeas/])</p>
+[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=fff)](https://www.instagram.com/rafaelsdeas/)</p>
 </div>
 
 ## Habilidades
